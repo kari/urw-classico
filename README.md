@@ -17,17 +17,17 @@ npm install this/font
 ### Usage
 
 ```css
-import "this/font"; // Defaults to weight 400.
+import "this/urw-classico"; // Defaults to weight 400.
 ```
 
 ```css
-import "this/font/weight.css"; // Weight 500
-import "this/font/weight-italic.css"; // Italic variant
+import "this/urw-classico/700.css"; // Weight 700
+import "this/urw-classico/700-italic.css"; // Italic variant
 ```
 
 ```css
 body {
-    font-family: "This Font", serif
+    font-family: "URW Classico", serif
 }
 ```
 

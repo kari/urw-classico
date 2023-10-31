@@ -1,0 +1,8 @@
+/* urw-classico-400.css */
+@font-face {
+    font-family: 'URW Classico';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url(./files/URWClassico-Regular.woff2) format('woff2'), url(./files/URWClassico-Regular.ttf) format('ttf');
+}

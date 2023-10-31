@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'URW Classico';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 400;
+    src: url(./files/URWClassico-Italic.woff2) format('woff2'), url(./files/URWClassico-Italic.ttf) format('ttf');
+}

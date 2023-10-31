@@ -1,0 +1,17 @@
+{
+  "name": "urw-classico",
+  "version": "1.0.0",
+  "description": "URW Classico fonts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font",
+    "urw",
+    "ttf",
+    "woff2"
+  ],
+  "author": "Kari Silvennoinen",
+  "license": "Aladdin"
+}

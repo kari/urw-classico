@@ -11,18 +11,18 @@ The fonts and CSS are provided in similar fashion to [Fontsource](https://fontso
 ### Installation
 
 ```bash
-npm install this/font
+npm install @ksilvennoinen/urw-classico
 ```
 
 ### Usage
 
 ```css
-import "this/urw-classico"; // Defaults to weight 400.
+import "@ksilvennoinen/urw-classico"; // Defaults to weight 400.
 ```
 
 ```css
-import "this/urw-classico/700.css"; // Weight 700
-import "this/urw-classico/700-italic.css"; // Italic variant
+import "@ksilvennoinen/urw-classico/700.css"; // Weight 700
+import "@ksilvennoinen/urw-classico/700-italic.css"; // Italic variant
 ```
 
 ```css

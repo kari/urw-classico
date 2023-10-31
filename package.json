@@ -17,6 +17,11 @@
   ],
   "author": "Kari Silvennoinen",
   "license": "Aladdin",
+  "homepage": "https://github.com/kari/urw-classico",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kari/urw-classico.git"
+  },
   "devDependencies": {
     "bent": "^7.3.12",
     "ttf2woff2": "^5.0.0"

@@ -1,5 +1,5 @@
 {
-  "name": "urw-classico",
+  "name": "@ksilvennoinen/urw-classico",
   "version": "1.0.0",
   "main": "index.css",
   "description": "URW Classico fonts",

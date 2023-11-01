@@ -20,7 +20,7 @@
   "homepage": "https://github.com/kari/urw-classico",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kari/urw-classico.git"
+    "url": "git+https://github.com/kari/urw-classico.git"
   },
   "devDependencies": {
     "bent": "^7.3.12",
